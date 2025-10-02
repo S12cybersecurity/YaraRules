@@ -43,9 +43,3 @@ These rules can help analysts, researchers, and security teams detect and study 
 
 - Contributions, suggestions, and improvements are welcome.  
 - Please open a pull request or submit an issue if you would like to collaborate.
-
----
-
-## 📜 License
-
-This project is released under the [MIT License](LICENSE).
