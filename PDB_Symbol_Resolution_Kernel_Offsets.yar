@@ -3,7 +3,6 @@ rule PDB_Symbol_Resolution_Kernel_Offsets
     meta:
         author      = "0x12 Dark Development"
         description = "Detects binaries attempting to resolve kernel structure offsets via PDB symbol server queries at runtime"
-        reference   = "https://medium.com/@0x12"
         severity    = "high"
         category    = "offensive-toolkit"
         date        = "2026-05-12"
